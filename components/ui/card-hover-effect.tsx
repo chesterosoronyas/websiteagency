@@ -11,7 +11,7 @@ export const HoverEffect = ({
     icon:React.ReactNode;
     title: string;
     description: string;
-    link: string;
+    
   }[];
   className?: string;
 }) => {
